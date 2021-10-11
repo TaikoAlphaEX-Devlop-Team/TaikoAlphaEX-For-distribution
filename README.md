@@ -1,6 +1,6 @@
-# TJAPlayer3-Develop-ReWrite
+# TaikoAlpha
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造した
-[TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)を超本家風に改造したアレを書き直したもの。
+[TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)を超本家風に改造したアレを書き直したものを改造しているもの。
 
 このプログラムを使用した不具合・問題については責任を負いかねます。
 
@@ -10,7 +10,7 @@ DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC]
 - SlimDX用の署名
 
 ## ライセンス関係
-Fork元より引用。
+Fork元のFork元より引用。
 
 > 以下のライブラリを使用しています。
 > * bass
